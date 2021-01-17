@@ -1,0 +1,4 @@
+br\com\wagnerandrade\youtube\core\entities\AbstractEntity.class
+br\com\wagnerandrade\youtube\core\repository\CourseRepository.class
+br\com\wagnerandrade\youtube\core\entities\Course$CourseBuilder.class
+br\com\wagnerandrade\youtube\core\entities\Course.class
